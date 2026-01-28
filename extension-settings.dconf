@@ -1,0 +1,304 @@
+[Logo-menu]
+custom-icon-path='/home/pseudonymm/Pictures/Schale_Icon_2.webp'
+menu-button-extensions-app='com.mattjakeman.ExtensionManager.desktop'
+menu-button-icon-image=5
+menu-button-icon-size=18
+symbolic-icon=true
+use-custom-icon=true
+
+[blur-my-shell]
+settings-version=2
+
+[blur-my-shell/appfolder]
+brightness=0.59999999999999998
+sigma=30
+
+[blur-my-shell/applications]
+blacklist=['Plank', 'com.desktop.ding', 'Conky', 'OxygenNotIncluded', 'pcsx2-qt', 'Mindustry', 'steam_app_3557620', 'steam_proton']
+blur=true
+brightness=1.0
+dynamic-opacity=false
+enable-all=true
+opacity=225
+sigma=0
+whitelist=['code']
+
+[blur-my-shell/coverflow-alt-tab]
+pipeline='pipeline_default'
+
+[blur-my-shell/dash-to-dock]
+blur=false
+brightness=0.59999999999999998
+pipeline='pipeline_default_rounded'
+sigma=30
+static-blur=true
+style-dash-to-dock=0
+
+[blur-my-shell/lockscreen]
+pipeline='pipeline_default'
+
+[blur-my-shell/overview]
+blur=true
+pipeline='pipeline_default'
+
+[blur-my-shell/panel]
+blur=false
+brightness=0.59999999999999998
+pipeline='pipeline_default'
+sigma=30
+
+[blur-my-shell/screenshot]
+pipeline='pipeline_default'
+
+[blur-my-shell/window-list]
+brightness=0.59999999999999998
+sigma=30
+
+[burn-my-windows]
+active-profile='/home/pseudonymm/.config/burn-my-windows/profiles/1759977927835332.conf'
+last-extension-version=47
+last-prefs-version=47
+prefs-open-count=3
+preview-effect=''
+
+[com/github/hermes83/compiz-windows-effect]
+last-version=29
+preset='R'
+
+[dash-to-dock]
+apply-custom-theme=true
+background-color='rgb(255,255,255)'
+background-opacity=0.80000000000000004
+custom-background-color=true
+custom-theme-shrink=false
+dash-max-icon-size=48
+dock-fixed=false
+dock-position='BOTTOM'
+extend-height=false
+height-fraction=0.90000000000000002
+icon-size-fixed=true
+isolate-monitors=false
+isolate-workspaces=false
+preferred-monitor=-2
+preferred-monitor-by-connector='eDP-1'
+show-mounts=false
+show-trash=false
+
+[desktop-cube]
+edge-switch-pressure=1000
+
+[ding]
+check-x11wayland=true
+show-home=false
+
+[openbar]
+accent-color=['0.000', '0.000', '0.000']
+accent-override=false
+apply-accent-shell=true
+apply-all-shell=true
+apply-flatpak=false
+apply-gtk=false
+apply-menu-notif=true
+apply-menu-shell=true
+auto-bgalpha=true
+autofg-bar=true
+autofg-menu=false
+autohg-bar=true
+autohg-menu=true
+autotheme-dark='Color'
+autotheme-font=true
+autotheme-light='Color'
+autotheme-refresh=true
+bartype='Trilands'
+bcolor=['0.914', '0.945', '0.961']
+bg-change=false
+bgalpha=0.0
+bgcolor=['0.298', '0.278', '0.451']
+bgcolor-wmax=['0.118', '0.118', '0.118']
+bgcolor2=['0.329', '0.290', '0.408']
+bgpalette=false
+bguri='file:///home/pseudonymm/.var/app/io.github.jeffshee.Hidamari/config/hidamari/static-125782.png'
+boxalpha=0.0
+boxcolor=['0.298', '0.278', '0.451']
+bradius=10.0
+bwidth=0.0
+count1=185794
+count10=4824
+count11=2125
+count12=4
+count2=79463
+count3=73350
+count4=66556
+count5=49375
+count6=35599
+count7=18765
+count8=11542
+count9=7686
+dark-accent-color=['0.000', '0.000', '0.000']
+dark-bcolor=['0.914', '0.945', '0.961']
+dark-bgcolor=['0.298', '0.278', '0.451']
+dark-bgcolor-wmax=['0.118', '0.118', '0.118']
+dark-bgcolor2=['0.329', '0.290', '0.408']
+dark-bguri='file:///home/pseudonymm/.var/app/io.github.jeffshee.Hidamari/config/hidamari/static-125782.png'
+dark-boxcolor=['0.298', '0.278', '0.451']
+dark-hcolor=['0.796', '0.851', '0.894']
+dark-hscd-color=['0.600', '0.808', '0.925']
+dark-iscolor=['0.298', '0.278', '0.451']
+dark-mbcolor=['0.796', '0.851', '0.894']
+dark-mbgcolor=['0.129', '0.137', '0.271']
+dark-mhcolor=['0.796', '0.851', '0.894']
+dark-mscolor=['0.600', '0.808', '0.925']
+dark-mshcolor=['0.000', '0.000', '0.000']
+dark-palette1=['153', '206', '236']
+dark-palette10=['29', '137', '242']
+dark-palette11=['106', '104', '120']
+dark-palette12=['98', '92', '148']
+dark-palette2=['233', '241', '245']
+dark-palette3=['33', '35', '69']
+dark-palette4=['90', '177', '240']
+dark-palette5=['203', '217', '228']
+dark-palette6=['84', '74', '104']
+dark-palette7=['145', '132', '156']
+dark-palette8=['160', '162', '173']
+dark-palette9=['52', '156', '244']
+dark-shcolor=['0.000', '0.000', '0.000']
+dark-smbgcolor=['0.329', '0.290', '0.408']
+dark-vw-color=['0.600', '0.808', '0.925']
+dark-winbcolor=['0.600', '0.808', '0.925']
+dashdock-style='Menu'
+dborder=true
+dbradius=24.0
+default-font='Sans 12'
+disize=48.0
+dshadow=true
+fgalpha=1.0
+fitts-widgets=true
+gradient=false
+halpha=1.0
+hcolor=['0.796', '0.851', '0.894']
+heffect=false
+hscd-color=['0.600', '0.808', '0.925']
+import-export=false
+isalpha=0.94999999999999996
+iscolor=['0.298', '0.278', '0.451']
+light-bcolor=['0.204', '0.612', '0.957']
+light-bgcolor=['0.298', '0.278', '0.451']
+light-bgcolor-wmax=['0.922', '0.922', '0.922']
+light-bgcolor2=['0.329', '0.290', '0.408']
+light-bguri='file:///home/pseudonymm/.var/app/io.github.jeffshee.Hidamari/config/hidamari/static-125782.png'
+light-boxcolor=['0.298', '0.278', '0.451']
+light-hcolor=['0.416', '0.408', '0.471']
+light-hscd-color=['0.600', '0.808', '0.925']
+light-iscolor=['0.298', '0.278', '0.451']
+light-mbcolor=['0.416', '0.408', '0.471']
+light-mbgcolor=['0.129', '0.137', '0.271']
+light-mhcolor=['0.416', '0.408', '0.471']
+light-mscolor=['0.600', '0.808', '0.925']
+light-mshcolor=['0.000', '0.000', '0.000']
+light-palette1=['153', '206', '236']
+light-palette10=['29', '137', '242']
+light-palette11=['106', '104', '120']
+light-palette12=['98', '92', '148']
+light-palette2=['233', '241', '245']
+light-palette3=['33', '35', '69']
+light-palette4=['90', '177', '240']
+light-palette5=['203', '217', '228']
+light-palette6=['84', '74', '104']
+light-palette7=['145', '132', '156']
+light-palette8=['160', '162', '173']
+light-palette9=['52', '156', '244']
+light-shcolor=['0.000', '0.000', '0.000']
+light-smbgcolor=['0.329', '0.290', '0.408']
+light-vw-color=['0.600', '0.808', '0.925']
+light-winbcolor=['0.600', '0.808', '0.925']
+mbcolor=['0.796', '0.851', '0.894']
+mbgalpha=0.65000000000000002
+mbgcolor=['0.129', '0.137', '0.271']
+menustyle=true
+mfgalpha=1.0
+mhcolor=['0.796', '0.851', '0.894']
+monitor-height=1080
+monitor-width=1920
+msalpha=1.0
+mscolor=['0.600', '0.808', '0.925']
+mshcolor=['0.000', '0.000', '0.000']
+neon=false
+palette1=['153', '206', '236']
+palette10=['29', '137', '242']
+palette11=['106', '104', '120']
+palette12=['98', '92', '148']
+palette2=['233', '241', '245']
+palette3=['33', '35', '69']
+palette4=['90', '177', '240']
+palette5=['203', '217', '228']
+palette6=['84', '74', '104']
+palette7=['145', '132', '156']
+palette8=['160', '162', '173']
+palette9=['52', '156', '244']
+pause-reload=false
+reloadstyle=true
+shadow=false
+shcolor=['0.000', '0.000', '0.000']
+smbgcolor=['0.329', '0.290', '0.408']
+smbgoverride=false
+trigger-autotheme=true
+trigger-reload=true
+vw-color=['0.600', '0.808', '0.925']
+winbcolor=['0.600', '0.808', '0.925']
+
+[tiling-assistant]
+activate-layout0=@as []
+activate-layout1=@as []
+activate-layout2=@as []
+activate-layout3=@as []
+active-window-hint=1
+active-window-hint-color='rgb(211,70,21)'
+auto-tile=@as []
+center-window=@as []
+debugging-free-rects=@as []
+debugging-show-tiled-rects=@as []
+default-move-mode=0
+dynamic-keybinding-behavior=0
+import-layout-examples=false
+last-version-installed=46
+maximize-with-gap=false
+overridden-settings={'org.gnome.mutter.edge-tiling': <@mb nothing>, 'org.gnome.mutter.keybindings.toggle-tiled-left': <@mb nothing>, 'org.gnome.mutter.keybindings.toggle-tiled-right': <@mb nothing>}
+restore-window=['<Super>Down']
+search-popup-layout=@as []
+single-screen-gap=0
+tile-bottom-half=['<Super>KP_2']
+tile-bottom-half-ignore-ta=@as []
+tile-bottomleft-quarter=['<Super>KP_1']
+tile-bottomleft-quarter-ignore-ta=@as []
+tile-bottomright-quarter=['<Super>KP_3']
+tile-bottomright-quarter-ignore-ta=@as []
+tile-edit-mode=@as []
+tile-left-half=['<Super>Left', '<Super>KP_4']
+tile-left-half-ignore-ta=@as []
+tile-maximize=['<Super>Up', '<Super>KP_5']
+tile-maximize-horizontally=@as []
+tile-maximize-vertically=@as []
+tile-right-half=['<Super>Right', '<Super>KP_6']
+tile-right-half-ignore-ta=@as []
+tile-top-half=['<Super>KP_8']
+tile-top-half-ignore-ta=@as []
+tile-topleft-quarter=['<Super>KP_7']
+tile-topleft-quarter-ignore-ta=@as []
+tile-topright-quarter=['<Super>KP_9']
+tile-topright-quarter-ignore-ta=@as []
+tiling-popup-all-workspace=true
+toggle-always-on-top=@as []
+toggle-tiling-popup=@as []
+window-gap=0
+
+[top-bar-organizer]
+center-box-order=['dateMenu', 'Media Controls']
+left-box-order=['LogoMenu', 'activities']
+right-box-order=['appindicator-kstatusnotifieritem-MateEngine', 'appindicator-kstatusnotifieritem-proton-vpn-app', 'appindicator-kstatusnotifieritem-steam', 'appindicator-kstatusnotifieritem-variety', 'appindicator-kstatusnotifieritem-blueman', 'appindicator-kstatusnotifieritem-chrome_status_icon_2', 'appindicator-kstatusnotifieritem-chrome_status_icon_1', 'appindicator-kstatusnotifieritem-zero-trust-client', 'vitalsMenu', 'tiling-assistant@leleat-on-github', 'appindicator-kstatusnotifieritem-livepatch', 'appindicator-kstatusnotifieritem-software-update-available', 'screenRecording', 'screenSharing', 'dwellClick', 'a11y', 'keyboard', 'quickSettings']
+
+[user-theme]
+name='WhiteSur-Dark'
+
+[vitals]
+fixed-widths=false
+hot-sensors=['_memory_usage_', '_processor_usage_', '__temperature_avg__', '_voltage_bat0_in0_', '__network-rx_max__']
